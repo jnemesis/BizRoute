@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">BizRoute</string>
-    <string name="title_activity_maps">BizRoute Map</string>
+    <string name="title_activity_maps">BizRoute</string>
     <string name="maps_api_key">AIzaSyBNBLK-EleqCFtTnvg_b-QiUIBzzHmw_u0</string>
 </resources>
