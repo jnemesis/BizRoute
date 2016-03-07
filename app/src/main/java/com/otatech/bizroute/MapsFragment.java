@@ -26,7 +26,7 @@ import static android.support.v4.app.ActivityCompat.*;
 import static android.support.v4.content.ContextCompat.checkSelfPermission;
 
 /**
- * Created by raunie.adair on 12/23/2015.
+ * Created by Raunie Adair on 12/23/2015.
  */
 public class MapsFragment extends SupportMapFragment implements GoogleApiClient.ConnectionCallbacks,
         GoogleApiClient.OnConnectionFailedListener,
